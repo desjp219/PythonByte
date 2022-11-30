@@ -154,5 +154,5 @@ source venv/bin/activate
 ### For windows: 
 python -m pytest test.py
 
-### For MacOS and Linux user: 
+### For MacOS and Linux users: 
 pytest test.py
